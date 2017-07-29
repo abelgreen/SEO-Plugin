@@ -1,0 +1,14 @@
+div.right{
+    float:right;
+}
+div.myfont input,div.myfont label,div.myfont textarea{
+    font-family: Raleway;
+    font-size: 14px;
+    line-height: 1.5;
+    letter-spacing: 1px;
+    font-weight: bold;
+    color: #141434; 
+}
+div textarea.fullwidth{
+    width:100%;
+}
